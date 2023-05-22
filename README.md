@@ -1,4 +1,4 @@
-<img src="https://github.com/ExitVPN/Pure/blob/main/Logo_main.jpeg?raw=true" width="100">
+<img src="https://github.com/ExitVPN/Pure/blob/main/Logo_main.jpg?raw=true" width="100">
 
 # ExitVPN Pure
 
