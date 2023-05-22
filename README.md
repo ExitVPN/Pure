@@ -1,3 +1,5 @@
+<img src="https://github.com/ExitVPN/Pure/blob/main/Logo_main.jpeg?raw=true" width="100">
+
 # ExitVPN Pure
 
 ### Fast, Beautiful, Easy-to-Use VPN Client
